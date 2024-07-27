@@ -1,1 +1,2 @@
-# QR Code Reader Using Javascript
+# QR Code Reader 
+## Javascript
