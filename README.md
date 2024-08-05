@@ -1,2 +1,7 @@
 # 🗂️ QR Code Reader 🏁 🤳🏻 
-## Key Concepts :
+##  ➡️ Key Concepts :
+### ✅ Fetch API
+### ✅ Object.create( )
+### ✅ Async
+### ✅ addEventListene( )
+### ✅ remove( )
