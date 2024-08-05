@@ -1,2 +1,2 @@
-# QR Code Reader 
-## Javascript
+# 🗂️ QR Code Reader 🏁 🤳🏻 
+## Key Concepts :
