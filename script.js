@@ -1,9 +1,10 @@
-const wrapper = document.querySelector(".wrapper"),
-form = document.querySelector("form"),
-fileInp = form.querySelector("input"),
-infoText = form.querySelector("p"),
-closeBtn = document.querySelector(".close"),
-copyBtn = document.querySelector(".copy");
+// Add variables
+const wrapper = document.querySelector(".wrapper");
+const form = document.querySelector("form");
+const fileInp = form.querySelector("input");
+const infoText = form.querySelector("p");
+const closeBtn = document.querySelector(".close");
+const copyBtn = document.querySelector(".copy");
 
 function fetchRequest(file, formData) {
     infoText.innerText = "Scanning QR Code...";
